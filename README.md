@@ -1,6 +1,6 @@
 #cleandatacoursera
 
-__LeeT's Repository for Coursera Getting &amp; Cleaning Data course project, January 2016__
+__Lee Tibbert's Repository for Coursera Getting &amp; Cleaning Data course project, January 2016__
 
 The files in this repository document a transformation of 
 data described in the course projects requirements description as:
